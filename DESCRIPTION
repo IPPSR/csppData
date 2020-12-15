@@ -12,7 +12,5 @@ Language: en-US
 Depends: 
     R (>= 2.10)
 Imports:
-    cspp,
-    knitr
+    cspp
 RoxygenNote: 7.1.1
-VignetteBuilder: knitr
