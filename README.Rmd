@@ -76,7 +76,7 @@ data("correlates")
 
 Package
 
-> Caleb Lucas and Joshua McCrain (2020). csppData: A Tool for The Correlates of State Policy Project Data.
+> Caleb Lucas and Joshua McCrain (2020). csppData: The Correlates of State Policy Project Dataset.
 R package version 0.1.0
 
 CSPP Data
