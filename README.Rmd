@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# csppData: A Tool for the Correlates of State Policy Project Data
+# csppData: The Correlates of State Policy Project Dataset
 
 ```{r echo=FALSE, results="hide", message=FALSE, warning=F}
 # library("badger")
