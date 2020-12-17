@@ -14,7 +14,7 @@ This resubmission deletes 'cspp' from the Imports in the DESCRIPTION file to res
 
 Our sincere apologies for the quick resubmission and for the mistake. Again, no updates to this package are planned.
 
-We also fixed the encoding issues that CRAN noted in the data files. The files only contain ASCII characters now.
+We also fixed encoding issues that CRAN noted in the data files. The files only contain ASCII characters now.
 
 - No errors.
 
