@@ -6,10 +6,14 @@
 
 0 errors | 0 warnings | 1 note
 
-* This is a new release.
+* This is resubmission.
 
-This is the data only for the Correlates of State Policy Project dataset used by the 'cspp' package. We created this package as requested by CRAN reviewers. It will reduce the file size of the 'cspp' package (as this data is currently in that package) and let us update the code in the 'cspp' package without pushing this data needlessly.
+This is a data only package for 'cspp' that we created to decrease the size of 'cspp'. The initial submission of 'csppData' included 'cspp' as a dependency, which created a circular dependency error for 'cspp' because it truly depends on 'csppData' to function, as 'csppData' now holds its data.
+
+This resubmission only deletes 'cspp' from the Imports in the DESCRIPTION file to resolve the circular dependency error. This will allow 'cspp' to function. We will not need to update 'csppData' in the foreseeable future.
+
+Our sincere apologies for the quick resubmission and for the mistake. Again, no updates to this package are planned.
 
 - No errors.
 
-- Only one note, which is regarding the file size. The package contains only the minimum number of files and the dataset + codebook, which are approximately 4.2mb.
+- Only one note, which is regarding the file size. The package contains only the minimum number of files and the dataset + codebook for the Correlates of State Policy Project dataset used by the 'cspp' package, which are approximately 4.2mb.
