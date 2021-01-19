@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![](https://www.r-pkg.org/badges/version/csppData?color=blue)](https://cran.r-project.org/package=csppData)
+[![](http://cranlogs.r-pkg.org/badges/grand-total/csppData?color=blue)](https://cran.r-project.org/package=csppData)
 <!-- badges: end -->
 
 **csppData** is an R package that contains the Correlates of State
@@ -44,6 +46,9 @@ compiles more than 2,000 variables across 50 states (+ DC) from
 # Install from github:
 library(devtools)
 install_github("correlatesstatepolicy/csppData")
+
+# Install from CRAN:
+install.packages("csppData")
 ```
 
 ## Loading the CSPP Data

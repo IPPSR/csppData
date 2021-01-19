@@ -16,15 +16,17 @@ knitr::opts_chunk$set(
 # csppData: The Correlates of State Policy Project Dataset
 
 ```{r echo=FALSE, results="hide", message=FALSE, warning=F}
-# library("badger")
+library("badger")
+
 ```
 
 <!-- badges: start -->
 ```{r, echo = FALSE, results='asis'}
-# cat(
-# 	badge_cran_release("csppData", "blue")
-# 	,badge_cran_download("csppData", "grand-total", "blue")
-# )
+cat(
+	badge_cran_release("csppData", "blue")
+	,badge_cran_download("csppData", "grand-total", "blue")
+)
+
 ```
 <!-- badges: end -->
 
@@ -51,13 +53,15 @@ knitr::opts_chunk$set(
 * Transportation
 * Regulatory Policy
 
-
 ## Downloading the Package
 
 ```{r eval=F}
 # Install from github:
 library(devtools)
 install_github("correlatesstatepolicy/csppData")
+
+# Install from CRAN:
+install.packages("csppData")
 
 ```
 
