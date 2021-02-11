@@ -14,7 +14,8 @@ Policy data assembled by Marty P. Jordan and Matt Grossmann. Use the
 associated [cspp](https://github.com/correlatesstatepolicy/cspp) package
 to subset the data by states and years, create map + panel
 visualizations, export citations to common file formats (e.g., .bib),
-and more.
+and more. An associated [web
+application](https://cspp.ippsr.msu.edu/cspp/) is also available.
 
 ## The Correlates of State Policy
 
