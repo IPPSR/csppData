@@ -5,7 +5,7 @@
 \alias{correlates}
 \title{The Correlates of State Policy Project Dataset (IPPSR)}
 \format{
-An object of class \code{data.frame} with 6120 rows and 2091 columns.
+An object of class \code{data.frame} with 6281 rows and 2142 columns.
 }
 \usage{
 correlates

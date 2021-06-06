@@ -80,13 +80,13 @@ data("correlates")
 
 CSPP Data
 
-> Jordan, Marty P. and Matt Grossmann. 2020. The Correlates of State Policy Project v.2.2.
+> Jordan, Marty P. and Matt Grossmann. 2020. The Correlates of State Policy Project v.2.3.
 East Lansing, MI: Institute for Public Policy and Social Research (IPPSR).
 
 Package
 
 > Caleb Lucas and Joshua McCrain (2020). csppData: The Correlates of State Policy Project Dataset.
-R package version 0.1.1
+R package version 0.1.3
 
 # Contact
 

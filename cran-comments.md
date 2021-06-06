@@ -2,7 +2,7 @@
 
 This is a resubmission. In this version we have:
 
-- Added `LazyDataCompression: xz` to the description file as requested by Brian Ripley.
+- Updated the CSPP dataset with the most recently released version. These updates are not frequent - approximately once a quarter.
 
 ## Test environments
 * local (OS X) R installation, R 4.0.4

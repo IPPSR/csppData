@@ -24,22 +24,22 @@ Project](http://ippsr.msu.edu/public-policy/correlates-state-policy)
 compiles more than 2,000 variables across 50 states (+ DC) from
 1900-2019. The variables cover 16 broad categories:
 
-  - Demographics and Population
-  - Economic and Fiscal Policy
-  - Government
-  - Elections
-  - Policy Scores and Public Opinion
-  - Criminal Justice and the Legal System
-  - Education
-  - Healthcare and Health Insurance
-  - Welfare Policy
-  - Rights and Anti-Discrimination Protections
-  - Environment
-  - Drug and Alcohol Policy
-  - Gun Control
-  - Labor
-  - Transportation
-  - Regulatory Policy
+-   Demographics and Population
+-   Economic and Fiscal Policy
+-   Government
+-   Elections
+-   Policy Scores and Public Opinion
+-   Criminal Justice and the Legal System
+-   Education
+-   Healthcare and Health Insurance
+-   Welfare Policy
+-   Rights and Anti-Discrimination Protections
+-   Environment
+-   Drug and Alcohol Policy
+-   Gun Control
+-   Labor
+-   Transportation
+-   Regulatory Policy
 
 ## Downloading the Package
 
@@ -67,13 +67,13 @@ data("correlates")
 CSPP Data
 
 > Jordan, Marty P. and Matt Grossmann. 2020. The Correlates of State
-> Policy Project v.2.2. East Lansing, MI: Institute for Public Policy
+> Policy Project v.2.3. East Lansing, MI: Institute for Public Policy
 > and Social Research (IPPSR).
 
 Package
 
 > Caleb Lucas and Joshua McCrain (2020). csppData: The Correlates of
-> State Policy Project Dataset. R package version 0.1.1
+> State Policy Project Dataset. R package version 0.1.3
 
 # Contact
 
