@@ -2,7 +2,7 @@
 
 This is a resubmission. In this version we have:
 
-- Updated the CSPP dataset with the most recently released version. These updates are not frequent - approximately once a quarter.
+- Updated the CSPP dataset with the most recently released version. These updates are not frequent - no more than once a quarter.
 
 ## Test environments
 * local (OS X) R installation, R 4.0.4
