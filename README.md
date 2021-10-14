@@ -22,7 +22,7 @@ application](https://cspp.ippsr.msu.edu/cspp/) is also available.
 [The Correlates of State Policy
 Project](http://ippsr.msu.edu/public-policy/correlates-state-policy)
 compiles more than 2,000 variables across 50 states (+ DC) from
-1900-2019. The variables cover 16 broad categories:
+1900-2020. The variables cover 16 broad categories:
 
 -   Demographics and Population
 -   Economic and Fiscal Policy
@@ -77,7 +77,7 @@ Package
 
 # Contact
 
-[**Caleb Lucas**](https://caleblucas.com/) - Ph.D. Candidate, Michigan
+[**Caleb Lucas**](https://caleblucas.com/) - Post-doc, IPPSR, Michigan
 State University ([Twitter](https://twitter.com/caleblucas)) <br />
-[**Josh McCrain**](http://joshuamccrain.com) - Post-doc, IPPSR, Michigan
-State University ([Twitter](https://twitter.com/joshmccrain))
+[**Josh McCrain**](http://joshuamccrain.com) - Assistant Proffessor,
+University of Utah ([Twitter](https://twitter.com/joshmccrain))
