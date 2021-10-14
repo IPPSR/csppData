@@ -15,7 +15,9 @@ and Josh McCrain. Use the associated
 [cspp](https://github.com/correlatesstatepolicy/cspp) package to subset
 the data by states and years, create map + panel visualizations, export
 citations to common file formats (e.g., .bib), and more. An associated
-[web application](https://cspp.ippsr.msu.edu/cspp/) is also available.
+[web application](https://cspp.ippsr.msu.edu/cspp/) that enables easy
+visualization, manipulation, and exploration of the data is also
+available.
 
 ## The Correlates of State Policy
 
@@ -56,10 +58,10 @@ install.packages("csppData")
 
 ``` r
 # CSPP codebook
-data("codebook24")
+data("codebook")
 
 # CSPP data
-data("correlates24")
+data("correlates")
 ```
 
 # Citation
