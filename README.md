@@ -10,12 +10,12 @@
 <!-- badges: end -->
 
 **csppData** is an R package that contains the Correlates of State
-Policy data assembled by Marty P. Jordan and Matt Grossmann. Use the
-associated [cspp](https://github.com/correlatesstatepolicy/cspp) package
-to subset the data by states and years, create map + panel
-visualizations, export citations to common file formats (e.g., .bib),
-and more. An associated [web
-application](https://cspp.ippsr.msu.edu/cspp/) is also available.
+Policy data assembled by Matt Grossmann, Marty P. Jordan, and Josh
+McCrain. Use the associated
+[cspp](https://github.com/correlatesstatepolicy/cspp) package to subset
+the data by states and years, create map + panel visualizations, export
+citations to common file formats (e.g., .bib), and more. An associated
+[web application](https://cspp.ippsr.msu.edu/cspp/) is also available.
 
 ## The Correlates of State Policy
 
@@ -56,19 +56,20 @@ install.packages("csppData")
 
 ``` r
 # CSPP codebook
-data("codebook")
+data("codebook24")
 
 # CSPP data
-data("correlates")
+data("correlates24")
 ```
 
 # Citation
 
 CSPP Data
 
-> Jordan, Marty P. and Matt Grossmann. 2020. The Correlates of State
-> Policy Project v.2.3. East Lansing, MI: Institute for Public Policy
-> and Social Research (IPPSR).
+> Grossmann, M., Jordan, M. P. and McCrain, J. (2021) “The Correlates of
+> State Policy and the Structure of State Panel Data,” State Politics &
+> Policy Quarterly. Cambridge University Press, pp. 1-21. doi:
+> 10.1017/spq.2021.17.
 
 Package
 
