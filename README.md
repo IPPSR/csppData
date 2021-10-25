@@ -10,8 +10,8 @@
 <!-- badges: end -->
 
 **csppData** is an R package that contains the Correlates of State
-Policy data (version 2.4) assembled by Matt Grossmann, Marty P. Jordan,
-and Josh McCrain. Use the associated
+Policy data (version 2.4.1) assembled by Matt Grossmann, Marty P.
+Jordan, and Josh McCrain. Use the associated
 [cspp](https://github.com/correlatesstatepolicy/cspp) package to subset
 the data by states and years, create map + panel visualizations, export
 citations to common file formats (e.g., .bib), and more. An associated
