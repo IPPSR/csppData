@@ -1,8 +1,8 @@
-## Resubmission: 0.1.4
+## Resubmission: 0.2.5
 
 This is a resubmission. In this version we have:
 
-- Updated the CSPP dataset, which this package holds, with the most recently released version.
+- Updated the CSPP dataset, which this package holds, with the most recently released version. The update is significant and adds over 700 variables to the dataset.
 
 ## Test environments
 * local (OS X) R installation, R 4.0.4

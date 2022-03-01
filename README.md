@@ -10,8 +10,8 @@
 <!-- badges: end -->
 
 **csppData** is an R package that contains the Correlates of State
-Policy data (version 2.4.1) assembled by Matt Grossmann, Marty P.
-Jordan, and Josh McCrain. Use the associated
+Policy data (version 2.5) assembled by Matt Grossmann, Marty P. Jordan,
+and Josh McCrain. Use the associated
 [cspp](https://github.com/correlatesstatepolicy/cspp) package to subset
 the data by states and years, create map + panel visualizations, export
 citations to common file formats (e.g., .bib), and more. An associated
@@ -23,7 +23,7 @@ available.
 
 [The Correlates of State Policy
 Project](http://ippsr.msu.edu/public-policy/correlates-state-policy)
-compiles more than 2,000 variables across 50 states (+ DC) from
+compiles more than 3,000 variables across 50 states (+ DC) from
 1900-2020. The variables cover 16 broad categories:
 
 -   Demographics and Population
@@ -46,15 +46,18 @@ compiles more than 2,000 variables across 50 states (+ DC) from
 ## Downloading the Package
 
 ``` r
-# Install from github:
-library(devtools)
-install_github("correlatesstatepolicy/csppData")
-
 # Install from CRAN:
 install.packages("csppData")
+
+# Install from github (may contain more recent version than the CRAN package)
+library(devtools)
+install_github("correlatesstatepolicy/csppData")
 ```
 
 ## Loading the CSPP Data
+
+Note that the `cspp` package imports the dataset automatically and
+provides a number of helpful functions when working with it.
 
 ``` r
 # CSPP codebook
@@ -80,7 +83,7 @@ Package
 
 # Contact
 
-[**Caleb Lucas**](https://caleblucas.com/) - Post-doc, IPPSR, Michigan
+[**Caleb Lucas**](https://caleblucas.com/) - Postdoc, IPPSR, Michigan
 State University ([Twitter](https://twitter.com/caleblucas)) <br />
-[**Josh McCrain**](http://joshuamccrain.com) - Assistant Proffessor,
+[**Josh McCrain**](http://joshuamccrain.com) - Assistant Professor,
 University of Utah ([Twitter](https://twitter.com/joshmccrain))

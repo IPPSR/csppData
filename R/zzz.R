@@ -6,6 +6,6 @@
   packageStartupMessage("R package version 0.1.4.\n")
   packageStartupMessage("Grossmann, M., Jordan, M. P. and McCrain, J. (2021) 'The Correlates of State Policy and the Structure of State Panel Data,'")
   packageStartupMessage("State Politics & Policy Quarterly. Cambridge University Press, pp. 1-21. doi: 10.1017/spq.2021.17.")
-  packageStartupMessage("\nYou are using version 2.4.1 of the CSPP data.\n")
+  packageStartupMessage("\nYou are using version 2.5 of the CSPP data.\n")
 }
 
