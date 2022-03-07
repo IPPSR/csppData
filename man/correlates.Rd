@@ -5,7 +5,7 @@
 \alias{correlates}
 \title{The Correlates of State Policy Project Dataset (IPPSR)}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 6171 rows and 3004 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 6171 rows and 3048 columns.
 }
 \usage{
 correlates
