@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# csppData: The Correlates of State Policy Project Dataset
+# csppData: The Correlates of State Policy Project Dataset <img src="figures/csppData.png" height="150" align="right"/>
 
 <!-- badges: start -->
 
