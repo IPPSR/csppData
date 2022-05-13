@@ -5,7 +5,7 @@
 \alias{codebook}
 \title{The Correlates of State Policy Project Dataset Codebook}
 \format{
-An object of class \code{data.frame} with 3042 rows and 14 columns.
+An object of class \code{data.frame} with 3014 rows and 14 columns.
 }
 \usage{
 codebook
